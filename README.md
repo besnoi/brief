@@ -2,7 +2,7 @@
 A Simple/Stupid Music Player written in LÖVE :musical_note: for no purpose other than to demonstrate what could be done with [Lovely-Imgui](https://github.com/YoungNeer/lovely-imgui)!
 
 <p align="center">
-<a href="screenshots/player2.png"><img src="screenshots/player2.png"/></a><br>
+<a href="screenshots/playing2.png"><img src="screenshots/playing2.png"/></a><br>
   <span style="align:center">A look of the Brief (<i>For more see "screenshots"</i>)</span>
 </p>
 
